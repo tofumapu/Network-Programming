@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LAB\\NT106\\Lab1-23520231-NguyenLeNhatDang-23520249-HuynhMinhDat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06057E6C-EE33-4ED0-8FAA-BE60C79FFEC1}|Lab1_23520231_23520249\\Lab1_23520231_23520249.csproj|d:\\lab\\nt106\\lab1-23520231-nguyenlenhatdang-23520249-huynhminhdat\\lab1_23520231_23520249\\lab1_baitap3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06057E6C-EE33-4ED0-8FAA-BE60C79FFEC1}|Lab1_23520231_23520249\\Lab1_23520231_23520249.csproj|solutionrelative:lab1_23520231_23520249\\lab1_baitap3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06057E6C-EE33-4ED0-8FAA-BE60C79FFEC1}|Lab1_23520231_23520249\\Lab1_23520231_23520249.csproj|D:\\LAB\\NT106\\Lab1-23520231-NguyenLeNhatDang-23520249-HuynhMinhDat\\lab1_23520231_23520249\\lab1_baitap5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06057E6C-EE33-4ED0-8FAA-BE60C79FFEC1}|Lab1_23520231_23520249\\Lab1_23520231_23520249.csproj|solutionrelative:lab1_23520231_23520249\\lab1_baitap5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06057E6C-EE33-4ED0-8FAA-BE60C79FFEC1}|Lab1_23520231_23520249\\Lab1_23520231_23520249.csproj|D:\\LAB\\NT106\\Lab1-23520231-NguyenLeNhatDang-23520249-HuynhMinhDat\\lab1_23520231_23520249\\lab1_menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06057E6C-EE33-4ED0-8FAA-BE60C79FFEC1}|Lab1_23520231_23520249\\Lab1_23520231_23520249.csproj|solutionrelative:lab1_23520231_23520249\\lab1_menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06057E6C-EE33-4ED0-8FAA-BE60C79FFEC1}|Lab1_23520231_23520249\\Lab1_23520231_23520249.csproj|d:\\lab\\nt106\\lab1-23520231-nguyenlenhatdang-23520249-huynhminhdat\\lab1_23520231_23520249\\lab1_menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06057E6C-EE33-4ED0-8FAA-BE60C79FFEC1}|Lab1_23520231_23520249\\Lab1_23520231_23520249.csproj|solutionrelative:lab1_23520231_23520249\\lab1_menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06057E6C-EE33-4ED0-8FAA-BE60C79FFEC1}|Lab1_23520231_23520249\\Lab1_23520231_23520249.csproj|d:\\lab\\nt106\\lab1-23520231-nguyenlenhatdang-23520249-huynhminhdat\\lab1_23520231_23520249\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06057E6C-EE33-4ED0-8FAA-BE60C79FFEC1}|Lab1_23520231_23520249\\Lab1_23520231_23520249.csproj|solutionrelative:lab1_23520231_23520249\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06057E6C-EE33-4ED0-8FAA-BE60C79FFEC1}|Lab1_23520231_23520249\\Lab1_23520231_23520249.csproj|d:\\lab\\nt106\\lab1-23520231-nguyenlenhatdang-23520249-huynhminhdat\\lab1_23520231_23520249\\lab1_baitap1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06057E6C-EE33-4ED0-8FAA-BE60C79FFEC1}|Lab1_23520231_23520249\\Lab1_23520231_23520249.csproj|solutionrelative:lab1_23520231_23520249\\lab1_baitap1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06057E6C-EE33-4ED0-8FAA-BE60C79FFEC1}|Lab1_23520231_23520249\\Lab1_23520231_23520249.csproj|d:\\lab\\nt106\\lab1-23520231-nguyenlenhatdang-23520249-huynhminhdat\\lab1_23520231_23520249\\lab1_baitap5.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06057E6C-EE33-4ED0-8FAA-BE60C79FFEC1}|Lab1_23520231_23520249\\Lab1_23520231_23520249.csproj|solutionrelative:lab1_23520231_23520249\\lab1_baitap5.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06057E6C-EE33-4ED0-8FAA-BE60C79FFEC1}|Lab1_23520231_23520249\\Lab1_23520231_23520249.csproj|D:\\LAB\\NT106\\Lab1-23520231-NguyenLeNhatDang-23520249-HuynhMinhDat\\lab1_23520231_23520249\\lab1_baitap1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06057E6C-EE33-4ED0-8FAA-BE60C79FFEC1}|Lab1_23520231_23520249\\Lab1_23520231_23520249.csproj|solutionrelative:lab1_23520231_23520249\\lab1_baitap1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06057E6C-EE33-4ED0-8FAA-BE60C79FFEC1}|Lab1_23520231_23520249\\Lab1_23520231_23520249.csproj|d:\\lab\\nt106\\lab1-23520231-nguyenlenhatdang-23520249-huynhminhdat\\lab1_23520231_23520249\\lab1_baitap5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06057E6C-EE33-4ED0-8FAA-BE60C79FFEC1}|Lab1_23520231_23520249\\Lab1_23520231_23520249.csproj|solutionrelative:lab1_23520231_23520249\\lab1_baitap5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06057E6C-EE33-4ED0-8FAA-BE60C79FFEC1}|Lab1_23520231_23520249\\Lab1_23520231_23520249.csproj|d:\\lab\\nt106\\lab1-23520231-nguyenlenhatdang-23520249-huynhminhdat\\lab1_23520231_23520249\\lab1_baitap4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06057E6C-EE33-4ED0-8FAA-BE60C79FFEC1}|Lab1_23520231_23520249\\Lab1_23520231_23520249.csproj|solutionrelative:lab1_23520231_23520249\\lab1_baitap4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06057E6C-EE33-4ED0-8FAA-BE60C79FFEC1}|Lab1_23520231_23520249\\Lab1_23520231_23520249.csproj|d:\\lab\\nt106\\lab1-23520231-nguyenlenhatdang-23520249-huynhminhdat\\lab1_23520231_23520249\\lab1_baitap4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06057E6C-EE33-4ED0-8FAA-BE60C79FFEC1}|Lab1_23520231_23520249\\Lab1_23520231_23520249.csproj|solutionrelative:lab1_23520231_23520249\\lab1_baitap4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06057E6C-EE33-4ED0-8FAA-BE60C79FFEC1}|Lab1_23520231_23520249\\Lab1_23520231_23520249.csproj|D:\\LAB\\NT106\\Lab1-23520231-NguyenLeNhatDang-23520249-HuynhMinhDat\\lab1_23520231_23520249\\lab1_baitap4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06057E6C-EE33-4ED0-8FAA-BE60C79FFEC1}|Lab1_23520231_23520249\\Lab1_23520231_23520249.csproj|solutionrelative:lab1_23520231_23520249\\lab1_baitap4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06057E6C-EE33-4ED0-8FAA-BE60C79FFEC1}|Lab1_23520231_23520249\\Lab1_23520231_23520249.csproj|d:\\lab\\nt106\\lab1-23520231-nguyenlenhatdang-23520249-huynhminhdat\\lab1_23520231_23520249\\lab1_baitap3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06057E6C-EE33-4ED0-8FAA-BE60C79FFEC1}|Lab1_23520231_23520249\\Lab1_23520231_23520249.csproj|solutionrelative:lab1_23520231_23520249\\lab1_baitap3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06057E6C-EE33-4ED0-8FAA-BE60C79FFEC1}|Lab1_23520231_23520249\\Lab1_23520231_23520249.csproj|d:\\lab\\nt106\\lab1-23520231-nguyenlenhatdang-23520249-huynhminhdat\\lab1_23520231_23520249\\lab1_baitap3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06057E6C-EE33-4ED0-8FAA-BE60C79FFEC1}|Lab1_23520231_23520249\\Lab1_23520231_23520249.csproj|solutionrelative:lab1_23520231_23520249\\lab1_baitap3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06057E6C-EE33-4ED0-8FAA-BE60C79FFEC1}|Lab1_23520231_23520249\\Lab1_23520231_23520249.csproj|D:\\LAB\\NT106\\Lab1-23520231-NguyenLeNhatDang-23520249-HuynhMinhDat\\lab1_23520231_23520249\\lab1_baitap2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06057E6C-EE33-4ED0-8FAA-BE60C79FFEC1}|Lab1_23520231_23520249\\Lab1_23520231_23520249.csproj|solutionrelative:lab1_23520231_23520249\\lab1_baitap2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 196,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Lab1_BaiTap1.cs [Design]",
+              "DocumentMoniker": "D:\\LAB\\NT106\\Lab1-23520231-NguyenLeNhatDang-23520249-HuynhMinhDat\\Lab1_23520231_23520249\\Lab1_BaiTap1.cs",
+              "RelativeDocumentMoniker": "Lab1_23520231_23520249\\Lab1_BaiTap1.cs",
+              "ToolTip": "D:\\LAB\\NT106\\Lab1-23520231-NguyenLeNhatDang-23520249-HuynhMinhDat\\Lab1_23520231_23520249\\Lab1_BaiTap1.cs [Design]",
+              "RelativeToolTip": "Lab1_23520231_23520249\\Lab1_BaiTap1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T19:14:55.856Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Lab1_BaiTap2.cs [Design]",
+              "DocumentMoniker": "D:\\LAB\\NT106\\Lab1-23520231-NguyenLeNhatDang-23520249-HuynhMinhDat\\Lab1_23520231_23520249\\Lab1_BaiTap2.cs",
+              "RelativeDocumentMoniker": "Lab1_23520231_23520249\\Lab1_BaiTap2.cs",
+              "ToolTip": "D:\\LAB\\NT106\\Lab1-23520231-NguyenLeNhatDang-23520249-HuynhMinhDat\\Lab1_23520231_23520249\\Lab1_BaiTap2.cs [Design]",
+              "RelativeToolTip": "Lab1_23520231_23520249\\Lab1_BaiTap2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T19:14:59.906Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab1_BaiTap3.cs [Design]",
+              "DocumentMoniker": "D:\\LAB\\NT106\\Lab1-23520231-NguyenLeNhatDang-23520249-HuynhMinhDat\\Lab1_23520231_23520249\\Lab1_BaiTap3.cs",
+              "RelativeDocumentMoniker": "Lab1_23520231_23520249\\Lab1_BaiTap3.cs",
+              "ToolTip": "D:\\LAB\\NT106\\Lab1-23520231-NguyenLeNhatDang-23520249-HuynhMinhDat\\Lab1_23520231_23520249\\Lab1_BaiTap3.cs [Design]",
+              "RelativeToolTip": "Lab1_23520231_23520249\\Lab1_BaiTap3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T19:15:03.963Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Lab1_BaiTap4.cs [Design]",
+              "DocumentMoniker": "D:\\LAB\\NT106\\Lab1-23520231-NguyenLeNhatDang-23520249-HuynhMinhDat\\Lab1_23520231_23520249\\Lab1_BaiTap4.cs",
+              "RelativeDocumentMoniker": "Lab1_23520231_23520249\\Lab1_BaiTap4.cs",
+              "ToolTip": "D:\\LAB\\NT106\\Lab1-23520231-NguyenLeNhatDang-23520249-HuynhMinhDat\\Lab1_23520231_23520249\\Lab1_BaiTap4.cs [Design]",
+              "RelativeToolTip": "Lab1_23520231_23520249\\Lab1_BaiTap4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T19:15:09.838Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab1_BaiTap5.cs [Design]",
+              "DocumentMoniker": "D:\\LAB\\NT106\\Lab1-23520231-NguyenLeNhatDang-23520249-HuynhMinhDat\\Lab1_23520231_23520249\\Lab1_BaiTap5.cs",
+              "RelativeDocumentMoniker": "Lab1_23520231_23520249\\Lab1_BaiTap5.cs",
+              "ToolTip": "D:\\LAB\\NT106\\Lab1-23520231-NguyenLeNhatDang-23520249-HuynhMinhDat\\Lab1_23520231_23520249\\Lab1_BaiTap5.cs [Design]",
+              "RelativeToolTip": "Lab1_23520231_23520249\\Lab1_BaiTap5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T19:15:22.683Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lab1_MenuForm.cs [Design]",
+              "DocumentMoniker": "D:\\LAB\\NT106\\Lab1-23520231-NguyenLeNhatDang-23520249-HuynhMinhDat\\Lab1_23520231_23520249\\Lab1_MenuForm.cs",
+              "RelativeDocumentMoniker": "Lab1_23520231_23520249\\Lab1_MenuForm.cs",
+              "ToolTip": "D:\\LAB\\NT106\\Lab1-23520231-NguyenLeNhatDang-23520249-HuynhMinhDat\\Lab1_23520231_23520249\\Lab1_MenuForm.cs [Design]",
+              "RelativeToolTip": "Lab1_23520231_23520249\\Lab1_MenuForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T05:12:53.064Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lab1_MenuForm.cs",
+              "DocumentMoniker": "D:\\LAB\\NT106\\Lab1-23520231-NguyenLeNhatDang-23520249-HuynhMinhDat\\Lab1_23520231_23520249\\Lab1_MenuForm.cs",
+              "RelativeDocumentMoniker": "Lab1_23520231_23520249\\Lab1_MenuForm.cs",
+              "ToolTip": "D:\\LAB\\NT106\\Lab1-23520231-NguyenLeNhatDang-23520249-HuynhMinhDat\\Lab1_23520231_23520249\\Lab1_MenuForm.cs",
+              "RelativeToolTip": "Lab1_23520231_23520249\\Lab1_MenuForm.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T05:14:30.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LAB\\NT106\\Lab1-23520231-NguyenLeNhatDang-23520249-HuynhMinhDat\\Lab1_23520231_23520249\\Program.cs",
+              "RelativeDocumentMoniker": "Lab1_23520231_23520249\\Program.cs",
+              "ToolTip": "D:\\LAB\\NT106\\Lab1-23520231-NguyenLeNhatDang-23520249-HuynhMinhDat\\Lab1_23520231_23520249\\Program.cs",
+              "RelativeToolTip": "Lab1_23520231_23520249\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T05:14:14.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Lab1_BaiTap1.cs",
+              "DocumentMoniker": "D:\\LAB\\NT106\\Lab1-23520231-NguyenLeNhatDang-23520249-HuynhMinhDat\\Lab1_23520231_23520249\\Lab1_BaiTap1.cs",
+              "RelativeDocumentMoniker": "Lab1_23520231_23520249\\Lab1_BaiTap1.cs",
+              "ToolTip": "D:\\LAB\\NT106\\Lab1-23520231-NguyenLeNhatDang-23520249-HuynhMinhDat\\Lab1_23520231_23520249\\Lab1_BaiTap1.cs",
+              "RelativeToolTip": "Lab1_23520231_23520249\\Lab1_BaiTap1.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAewFsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T01:59:18.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Lab1_BaiTap5.cs",
+              "DocumentMoniker": "D:\\LAB\\NT106\\Lab1-23520231-NguyenLeNhatDang-23520249-HuynhMinhDat\\Lab1_23520231_23520249\\Lab1_BaiTap5.cs",
+              "RelativeDocumentMoniker": "Lab1_23520231_23520249\\Lab1_BaiTap5.cs",
+              "ToolTip": "D:\\LAB\\NT106\\Lab1-23520231-NguyenLeNhatDang-23520249-HuynhMinhDat\\Lab1_23520231_23520249\\Lab1_BaiTap5.cs",
+              "RelativeToolTip": "Lab1_23520231_23520249\\Lab1_BaiTap5.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAFkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:43:44.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lab1_BaiTap5.Designer.cs",
+              "DocumentMoniker": "D:\\LAB\\NT106\\Lab1-23520231-NguyenLeNhatDang-23520249-HuynhMinhDat\\Lab1_23520231_23520249\\Lab1_BaiTap5.Designer.cs",
+              "RelativeDocumentMoniker": "Lab1_23520231_23520249\\Lab1_BaiTap5.Designer.cs",
+              "ToolTip": "D:\\LAB\\NT106\\Lab1-23520231-NguyenLeNhatDang-23520249-HuynhMinhDat\\Lab1_23520231_23520249\\Lab1_BaiTap5.Designer.cs",
+              "RelativeToolTip": "Lab1_23520231_23520249\\Lab1_BaiTap5.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:41:34.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Lab1_BaiTap4.cs",
+              "DocumentMoniker": "D:\\LAB\\NT106\\Lab1-23520231-NguyenLeNhatDang-23520249-HuynhMinhDat\\Lab1_23520231_23520249\\Lab1_BaiTap4.cs",
+              "RelativeDocumentMoniker": "Lab1_23520231_23520249\\Lab1_BaiTap4.cs",
+              "ToolTip": "D:\\LAB\\NT106\\Lab1-23520231-NguyenLeNhatDang-23520249-HuynhMinhDat\\Lab1_23520231_23520249\\Lab1_BaiTap4.cs",
+              "RelativeToolTip": "Lab1_23520231_23520249\\Lab1_BaiTap4.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:36:47.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Lab1_BaiTap4.Designer.cs",
+              "DocumentMoniker": "D:\\LAB\\NT106\\Lab1-23520231-NguyenLeNhatDang-23520249-HuynhMinhDat\\Lab1_23520231_23520249\\Lab1_BaiTap4.Designer.cs",
+              "RelativeDocumentMoniker": "Lab1_23520231_23520249\\Lab1_BaiTap4.Designer.cs",
+              "ToolTip": "D:\\LAB\\NT106\\Lab1-23520231-NguyenLeNhatDang-23520249-HuynhMinhDat\\Lab1_23520231_23520249\\Lab1_BaiTap4.Designer.cs",
+              "RelativeToolTip": "Lab1_23520231_23520249\\Lab1_BaiTap4.Designer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:36:42.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Lab1_BaiTap3.cs",
+              "DocumentMoniker": "D:\\LAB\\NT106\\Lab1-23520231-NguyenLeNhatDang-23520249-HuynhMinhDat\\Lab1_23520231_23520249\\Lab1_BaiTap3.cs",
+              "RelativeDocumentMoniker": "Lab1_23520231_23520249\\Lab1_BaiTap3.cs",
+              "ToolTip": "D:\\LAB\\NT106\\Lab1-23520231-NguyenLeNhatDang-23520249-HuynhMinhDat\\Lab1_23520231_23520249\\Lab1_BaiTap3.cs",
+              "RelativeToolTip": "Lab1_23520231_23520249\\Lab1_BaiTap3.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:28:07.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Lab1_BaiTap3.Designer.cs",
+              "DocumentMoniker": "D:\\LAB\\NT106\\Lab1-23520231-NguyenLeNhatDang-23520249-HuynhMinhDat\\Lab1_23520231_23520249\\Lab1_BaiTap3.Designer.cs",
+              "RelativeDocumentMoniker": "Lab1_23520231_23520249\\Lab1_BaiTap3.Designer.cs",
+              "ToolTip": "D:\\LAB\\NT106\\Lab1-23520231-NguyenLeNhatDang-23520249-HuynhMinhDat\\Lab1_23520231_23520249\\Lab1_BaiTap3.Designer.cs",
+              "RelativeToolTip": "Lab1_23520231_23520249\\Lab1_BaiTap3.Designer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:27:57.66Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
