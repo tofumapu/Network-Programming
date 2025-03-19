@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tofu\\source\\repos\\Lab6-23520231-23520249\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E747AAEC-0087-416A-94FA-74C15AADE10A}|Lab6-23520231-23520249\\Lab6-23520231-23520249.csproj|C:\\Users\\Tofu\\source\\repos\\Lab6-23520231-23520249\\lab6-23520231-23520249\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E747AAEC-0087-416A-94FA-74C15AADE10A}|Lab6-23520231-23520249\\Lab6-23520231-23520249.csproj|solutionrelative:lab6-23520231-23520249\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E747AAEC-0087-416A-94FA-74C15AADE10A}|Lab6-23520231-23520249\\Lab6-23520231-23520249.csproj|C:\\Users\\Tofu\\source\\repos\\Lab6-23520231-23520249\\lab6-23520231-23520249\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E747AAEC-0087-416A-94FA-74C15AADE10A}|Lab6-23520231-23520249\\Lab6-23520231-23520249.csproj|solutionrelative:lab6-23520231-23520249\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E747AAEC-0087-416A-94FA-74C15AADE10A}|Lab6-23520231-23520249\\Lab6-23520231-23520249.csproj|c:\\users\\tofu\\source\\repos\\lab6-23520231-23520249\\lab6-23520231-23520249\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E747AAEC-0087-416A-94FA-74C15AADE10A}|Lab6-23520231-23520249\\Lab6-23520231-23520249.csproj|solutionrelative:lab6-23520231-23520249\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E747AAEC-0087-416A-94FA-74C15AADE10A}|Lab6-23520231-23520249\\Lab6-23520231-23520249.csproj|C:\\Users\\Tofu\\source\\repos\\Lab6-23520231-23520249\\lab6-23520231-23520249\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E747AAEC-0087-416A-94FA-74C15AADE10A}|Lab6-23520231-23520249\\Lab6-23520231-23520249.csproj|solutionrelative:lab6-23520231-23520249\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E747AAEC-0087-416A-94FA-74C15AADE10A}|Lab6-23520231-23520249\\Lab6-23520231-23520249.csproj|C:\\Users\\Tofu\\source\\repos\\Lab6-23520231-23520249\\lab6-23520231-23520249\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E747AAEC-0087-416A-94FA-74C15AADE10A}|Lab6-23520231-23520249\\Lab6-23520231-23520249.csproj|solutionrelative:lab6-23520231-23520249\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\Lab6-23520231-23520249\\Lab6-23520231-23520249\\Client.cs",
+              "RelativeDocumentMoniker": "Lab6-23520231-23520249\\Client.cs",
+              "ToolTip": "C:\\Users\\Tofu\\source\\repos\\Lab6-23520231-23520249\\Lab6-23520231-23520249\\Client.cs",
+              "RelativeToolTip": "Lab6-23520231-23520249\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:58:07.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\Lab6-23520231-23520249\\Lab6-23520231-23520249\\Server.cs",
+              "RelativeDocumentMoniker": "Lab6-23520231-23520249\\Server.cs",
+              "ToolTip": "C:\\Users\\Tofu\\source\\repos\\Lab6-23520231-23520249\\Lab6-23520231-23520249\\Server.cs",
+              "RelativeToolTip": "Lab6-23520231-23520249\\Server.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA6wD4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:57:55.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Server.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\Lab6-23520231-23520249\\Lab6-23520231-23520249\\Server.cs",
+              "RelativeDocumentMoniker": "Lab6-23520231-23520249\\Server.cs",
+              "ToolTip": "C:\\Users\\Tofu\\source\\repos\\Lab6-23520231-23520249\\Lab6-23520231-23520249\\Server.cs [Design]",
+              "RelativeToolTip": "Lab6-23520231-23520249\\Server.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:52:40.851Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\Lab6-23520231-23520249\\Lab6-23520231-23520249\\MainForm.cs",
+              "RelativeDocumentMoniker": "Lab6-23520231-23520249\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Tofu\\source\\repos\\Lab6-23520231-23520249\\Lab6-23520231-23520249\\MainForm.cs [Design]",
+              "RelativeToolTip": "Lab6-23520231-23520249\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:52:38.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\Lab6-23520231-23520249\\Lab6-23520231-23520249\\Client.cs",
+              "RelativeDocumentMoniker": "Lab6-23520231-23520249\\Client.cs",
+              "ToolTip": "C:\\Users\\Tofu\\source\\repos\\Lab6-23520231-23520249\\Lab6-23520231-23520249\\Client.cs [Design]",
+              "RelativeToolTip": "Lab6-23520231-23520249\\Client.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:52:37.944Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

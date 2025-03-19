@@ -1,0 +1,14 @@
+C:\Users\Tofu\source\repos\NewServer\NewServer\bin\Debug\net8.0\NewServer.exe
+C:\Users\Tofu\source\repos\NewServer\NewServer\bin\Debug\net8.0\NewServer.deps.json
+C:\Users\Tofu\source\repos\NewServer\NewServer\bin\Debug\net8.0\NewServer.runtimeconfig.json
+C:\Users\Tofu\source\repos\NewServer\NewServer\bin\Debug\net8.0\NewServer.dll
+C:\Users\Tofu\source\repos\NewServer\NewServer\bin\Debug\net8.0\NewServer.pdb
+C:\Users\Tofu\source\repos\NewServer\NewServer\obj\Debug\net8.0\NewServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tofu\source\repos\NewServer\NewServer\obj\Debug\net8.0\NewServer.AssemblyInfoInputs.cache
+C:\Users\Tofu\source\repos\NewServer\NewServer\obj\Debug\net8.0\NewServer.AssemblyInfo.cs
+C:\Users\Tofu\source\repos\NewServer\NewServer\obj\Debug\net8.0\NewServer.csproj.CoreCompileInputs.cache
+C:\Users\Tofu\source\repos\NewServer\NewServer\obj\Debug\net8.0\NewServer.dll
+C:\Users\Tofu\source\repos\NewServer\NewServer\obj\Debug\net8.0\refint\NewServer.dll
+C:\Users\Tofu\source\repos\NewServer\NewServer\obj\Debug\net8.0\NewServer.pdb
+C:\Users\Tofu\source\repos\NewServer\NewServer\obj\Debug\net8.0\NewServer.genruntimeconfig.cache
+C:\Users\Tofu\source\repos\NewServer\NewServer\obj\Debug\net8.0\ref\NewServer.dll

@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tofu\\source\\repos\\ChatGPTWinFormsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB700DE2-2BE5-44A2-AF3B-7BAF6FBC3B61}|ChatGPTWinFormsApp\\ChatGPTWinFormsApp.csproj|c:\\users\\tofu\\source\\repos\\chatgptwinformsapp\\chatgptwinformsapp\\chatgptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB700DE2-2BE5-44A2-AF3B-7BAF6FBC3B61}|ChatGPTWinFormsApp\\ChatGPTWinFormsApp.csproj|solutionrelative:chatgptwinformsapp\\chatgptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB700DE2-2BE5-44A2-AF3B-7BAF6FBC3B61}|ChatGPTWinFormsApp\\ChatGPTWinFormsApp.csproj|c:\\users\\tofu\\source\\repos\\chatgptwinformsapp\\chatgptwinformsapp\\chatgpt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB700DE2-2BE5-44A2-AF3B-7BAF6FBC3B61}|ChatGPTWinFormsApp\\ChatGPTWinFormsApp.csproj|solutionrelative:chatgptwinformsapp\\chatgpt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB700DE2-2BE5-44A2-AF3B-7BAF6FBC3B61}|ChatGPTWinFormsApp\\ChatGPTWinFormsApp.csproj|c:\\users\\tofu\\source\\repos\\chatgptwinformsapp\\chatgptwinformsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB700DE2-2BE5-44A2-AF3B-7BAF6FBC3B61}|ChatGPTWinFormsApp\\ChatGPTWinFormsApp.csproj|solutionrelative:chatgptwinformsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB700DE2-2BE5-44A2-AF3B-7BAF6FBC3B61}|ChatGPTWinFormsApp\\ChatGPTWinFormsApp.csproj|C:\\Users\\Tofu\\source\\repos\\ChatGPTWinFormsApp\\chatgptwinformsapp\\chatgpt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CB700DE2-2BE5-44A2-AF3B-7BAF6FBC3B61}|ChatGPTWinFormsApp\\ChatGPTWinFormsApp.csproj|solutionrelative:chatgptwinformsapp\\chatgpt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatGPT.cs",
+              "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\ChatGPTWinFormsApp\\ChatGPTWinFormsApp\\ChatGPT.cs",
+              "RelativeDocumentMoniker": "ChatGPTWinFormsApp\\ChatGPT.cs",
+              "ToolTip": "C:\\Users\\Tofu\\source\\repos\\ChatGPTWinFormsApp\\ChatGPTWinFormsApp\\ChatGPT.cs",
+              "RelativeToolTip": "ChatGPTWinFormsApp\\ChatGPT.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:11:37.181Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatGPTService.cs",
+              "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\ChatGPTWinFormsApp\\ChatGPTWinFormsApp\\ChatGPTService.cs",
+              "RelativeDocumentMoniker": "ChatGPTWinFormsApp\\ChatGPTService.cs",
+              "ToolTip": "C:\\Users\\Tofu\\source\\repos\\ChatGPTWinFormsApp\\ChatGPTWinFormsApp\\ChatGPTService.cs",
+              "RelativeToolTip": "ChatGPTWinFormsApp\\ChatGPTService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:23:23.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\ChatGPTWinFormsApp\\ChatGPTWinFormsApp\\Program.cs",
+              "RelativeDocumentMoniker": "ChatGPTWinFormsApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Tofu\\source\\repos\\ChatGPTWinFormsApp\\ChatGPTWinFormsApp\\Program.cs",
+              "RelativeToolTip": "ChatGPTWinFormsApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:11:03.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChatGPT.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\ChatGPTWinFormsApp\\ChatGPTWinFormsApp\\ChatGPT.cs",
+              "RelativeDocumentMoniker": "ChatGPTWinFormsApp\\ChatGPT.cs",
+              "ToolTip": "C:\\Users\\Tofu\\source\\repos\\ChatGPTWinFormsApp\\ChatGPTWinFormsApp\\ChatGPT.cs [Design]",
+              "RelativeToolTip": "ChatGPTWinFormsApp\\ChatGPT.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T08:07:44.601Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 213,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

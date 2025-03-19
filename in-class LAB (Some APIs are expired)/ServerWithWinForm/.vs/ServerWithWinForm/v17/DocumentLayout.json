@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github-Repo\\in-class LAB (Some APIs are expired)\\ServerWithWinForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16E929B1-52A0-4720-8C61-3CFC243BF103}|ServerWithWinForm\\ServerWithWinForm.csproj|d:\\github-repo\\in-class lab (some apis are expired)\\serverwithwinform\\serverwithwinform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E929B1-52A0-4720-8C61-3CFC243BF103}|ServerWithWinForm\\ServerWithWinForm.csproj|solutionrelative:serverwithwinform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E929B1-52A0-4720-8C61-3CFC243BF103}|ServerWithWinForm\\ServerWithWinForm.csproj|d:\\github-repo\\in-class lab (some apis are expired)\\serverwithwinform\\serverwithwinform\\formserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E929B1-52A0-4720-8C61-3CFC243BF103}|ServerWithWinForm\\ServerWithWinForm.csproj|solutionrelative:serverwithwinform\\formserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E929B1-52A0-4720-8C61-3CFC243BF103}|ServerWithWinForm\\ServerWithWinForm.csproj|D:\\Github-Repo\\in-class LAB (Some APIs are expired)\\ServerWithWinForm\\serverwithwinform\\formserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16E929B1-52A0-4720-8C61-3CFC243BF103}|ServerWithWinForm\\ServerWithWinForm.csproj|solutionrelative:serverwithwinform\\formserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E929B1-52A0-4720-8C61-3CFC243BF103}|ServerWithWinForm\\ServerWithWinForm.csproj|d:\\github-repo\\in-class lab (some apis are expired)\\serverwithwinform\\serverwithwinform\\formserver.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E929B1-52A0-4720-8C61-3CFC243BF103}|ServerWithWinForm\\ServerWithWinForm.csproj|solutionrelative:serverwithwinform\\formserver.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E929B1-52A0-4720-8C61-3CFC243BF103}|ServerWithWinForm\\ServerWithWinForm.csproj|d:\\github-repo\\in-class lab (some apis are expired)\\serverwithwinform\\serverwithwinform\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E929B1-52A0-4720-8C61-3CFC243BF103}|ServerWithWinForm\\ServerWithWinForm.csproj|solutionrelative:serverwithwinform\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E929B1-52A0-4720-8C61-3CFC243BF103}|ServerWithWinForm\\ServerWithWinForm.csproj|d:\\github-repo\\in-class lab (some apis are expired)\\serverwithwinform\\serverwithwinform\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E929B1-52A0-4720-8C61-3CFC243BF103}|ServerWithWinForm\\ServerWithWinForm.csproj|solutionrelative:serverwithwinform\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E929B1-52A0-4720-8C61-3CFC243BF103}|ServerWithWinForm\\ServerWithWinForm.csproj|d:\\github-repo\\in-class lab (some apis are expired)\\serverwithwinform\\serverwithwinform\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E929B1-52A0-4720-8C61-3CFC243BF103}|ServerWithWinForm\\ServerWithWinForm.csproj|solutionrelative:serverwithwinform\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E929B1-52A0-4720-8C61-3CFC243BF103}|ServerWithWinForm\\ServerWithWinForm.csproj|d:\\github-repo\\in-class lab (some apis are expired)\\serverwithwinform\\serverwithwinform\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E929B1-52A0-4720-8C61-3CFC243BF103}|ServerWithWinForm\\ServerWithWinForm.csproj|solutionrelative:serverwithwinform\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E929B1-52A0-4720-8C61-3CFC243BF103}|ServerWithWinForm\\ServerWithWinForm.csproj|d:\\github-repo\\in-class lab (some apis are expired)\\serverwithwinform\\serverwithwinform\\gamelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E929B1-52A0-4720-8C61-3CFC243BF103}|ServerWithWinForm\\ServerWithWinForm.csproj|solutionrelative:serverwithwinform\\gamelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E929B1-52A0-4720-8C61-3CFC243BF103}|ServerWithWinForm\\ServerWithWinForm.csproj|d:\\github-repo\\in-class lab (some apis are expired)\\serverwithwinform\\serverwithwinform\\packet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E929B1-52A0-4720-8C61-3CFC243BF103}|ServerWithWinForm\\ServerWithWinForm.csproj|solutionrelative:serverwithwinform\\packet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E929B1-52A0-4720-8C61-3CFC243BF103}|ServerWithWinForm\\ServerWithWinForm.csproj|d:\\github-repo\\in-class lab (some apis are expired)\\serverwithwinform\\serverwithwinform\\serverhandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E929B1-52A0-4720-8C61-3CFC243BF103}|ServerWithWinForm\\ServerWithWinForm.csproj|solutionrelative:serverwithwinform\\serverhandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E929B1-52A0-4720-8C61-3CFC243BF103}|ServerWithWinForm\\ServerWithWinForm.csproj|d:\\github-repo\\in-class lab (some apis are expired)\\serverwithwinform\\serverwithwinform\\serversend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E929B1-52A0-4720-8C61-3CFC243BF103}|ServerWithWinForm\\ServerWithWinForm.csproj|solutionrelative:serverwithwinform\\serversend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E929B1-52A0-4720-8C61-3CFC243BF103}|ServerWithWinForm\\ServerWithWinForm.csproj|d:\\github-repo\\in-class lab (some apis are expired)\\serverwithwinform\\serverwithwinform\\threadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E929B1-52A0-4720-8C61-3CFC243BF103}|ServerWithWinForm\\ServerWithWinForm.csproj|solutionrelative:serverwithwinform\\threadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormServer.cs [Design]",
+              "DocumentMoniker": "D:\\Github-Repo\\in-class LAB (Some APIs are expired)\\ServerWithWinForm\\ServerWithWinForm\\FormServer.cs",
+              "RelativeDocumentMoniker": "ServerWithWinForm\\FormServer.cs",
+              "ToolTip": "C:\\Users\\Tofu\\source\\repos\\ServerWithWinForm\\ServerWithWinForm\\FormServer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:50:16.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\Github-Repo\\in-class LAB (Some APIs are expired)\\ServerWithWinForm\\ServerWithWinForm\\Client.cs",
+              "RelativeDocumentMoniker": "ServerWithWinForm\\Client.cs",
+              "ToolTip": "D:\\Github-Repo\\in-class LAB (Some APIs are expired)\\ServerWithWinForm\\ServerWithWinForm\\Client.cs",
+              "RelativeToolTip": "ServerWithWinForm\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:25:36.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\Github-Repo\\in-class LAB (Some APIs are expired)\\ServerWithWinForm\\ServerWithWinForm\\Player.cs",
+              "RelativeDocumentMoniker": "ServerWithWinForm\\Player.cs",
+              "ToolTip": "D:\\Github-Repo\\in-class LAB (Some APIs are expired)\\ServerWithWinForm\\ServerWithWinForm\\Player.cs",
+              "RelativeToolTip": "ServerWithWinForm\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:26:50.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github-Repo\\in-class LAB (Some APIs are expired)\\ServerWithWinForm\\ServerWithWinForm\\Program.cs",
+              "RelativeDocumentMoniker": "ServerWithWinForm\\Program.cs",
+              "ToolTip": "D:\\Github-Repo\\in-class LAB (Some APIs are expired)\\ServerWithWinForm\\ServerWithWinForm\\Program.cs",
+              "RelativeToolTip": "ServerWithWinForm\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T15:01:23.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameLogic.cs",
+              "DocumentMoniker": "D:\\Github-Repo\\in-class LAB (Some APIs are expired)\\ServerWithWinForm\\ServerWithWinForm\\GameLogic.cs",
+              "RelativeDocumentMoniker": "ServerWithWinForm\\GameLogic.cs",
+              "ToolTip": "D:\\Github-Repo\\in-class LAB (Some APIs are expired)\\ServerWithWinForm\\ServerWithWinForm\\GameLogic.cs",
+              "RelativeToolTip": "ServerWithWinForm\\GameLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:54:35.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Server.cs",
+              "DocumentMoniker": "D:\\Github-Repo\\in-class LAB (Some APIs are expired)\\ServerWithWinForm\\ServerWithWinForm\\Server.cs",
+              "RelativeDocumentMoniker": "ServerWithWinForm\\Server.cs",
+              "ToolTip": "D:\\Github-Repo\\in-class LAB (Some APIs are expired)\\ServerWithWinForm\\ServerWithWinForm\\Server.cs",
+              "RelativeToolTip": "ServerWithWinForm\\Server.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:27:39.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Packet.cs",
+              "DocumentMoniker": "D:\\Github-Repo\\in-class LAB (Some APIs are expired)\\ServerWithWinForm\\ServerWithWinForm\\Packet.cs",
+              "RelativeDocumentMoniker": "ServerWithWinForm\\Packet.cs",
+              "ToolTip": "D:\\Github-Repo\\in-class LAB (Some APIs are expired)\\ServerWithWinForm\\ServerWithWinForm\\Packet.cs",
+              "RelativeToolTip": "ServerWithWinForm\\Packet.cs",
+              "ViewState": "AgIAAAMBAAAAAAAAAAAawBABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:26:42.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormServer.cs",
+              "DocumentMoniker": "D:\\Github-Repo\\in-class LAB (Some APIs are expired)\\ServerWithWinForm\\ServerWithWinForm\\FormServer.cs",
+              "RelativeDocumentMoniker": "ServerWithWinForm\\FormServer.cs",
+              "ToolTip": "D:\\Github-Repo\\in-class LAB (Some APIs are expired)\\ServerWithWinForm\\ServerWithWinForm\\FormServer.cs",
+              "RelativeToolTip": "ServerWithWinForm\\FormServer.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA2wCIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:53:13.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormServer.Designer.cs",
+              "DocumentMoniker": "D:\\Github-Repo\\in-class LAB (Some APIs are expired)\\ServerWithWinForm\\ServerWithWinForm\\FormServer.Designer.cs",
+              "RelativeDocumentMoniker": "ServerWithWinForm\\FormServer.Designer.cs",
+              "ToolTip": "D:\\Github-Repo\\in-class LAB (Some APIs are expired)\\ServerWithWinForm\\ServerWithWinForm\\FormServer.Designer.cs",
+              "RelativeToolTip": "ServerWithWinForm\\FormServer.Designer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA0wDYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:53:48.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "D:\\Github-Repo\\in-class LAB (Some APIs are expired)\\ServerWithWinForm\\ServerWithWinForm\\Constants.cs",
+              "RelativeDocumentMoniker": "ServerWithWinForm\\Constants.cs",
+              "ToolTip": "D:\\Github-Repo\\in-class LAB (Some APIs are expired)\\ServerWithWinForm\\ServerWithWinForm\\Constants.cs",
+              "RelativeToolTip": "ServerWithWinForm\\Constants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T15:09:41.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ServerHandle.cs",
+              "DocumentMoniker": "D:\\Github-Repo\\in-class LAB (Some APIs are expired)\\ServerWithWinForm\\ServerWithWinForm\\ServerHandle.cs",
+              "RelativeDocumentMoniker": "ServerWithWinForm\\ServerHandle.cs",
+              "ToolTip": "D:\\Github-Repo\\in-class LAB (Some APIs are expired)\\ServerWithWinForm\\ServerWithWinForm\\ServerHandle.cs",
+              "RelativeToolTip": "ServerWithWinForm\\ServerHandle.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAjwCkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:27:51.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ServerSend.cs",
+              "DocumentMoniker": "D:\\Github-Repo\\in-class LAB (Some APIs are expired)\\ServerWithWinForm\\ServerWithWinForm\\ServerSend.cs",
+              "RelativeDocumentMoniker": "ServerWithWinForm\\ServerSend.cs",
+              "ToolTip": "D:\\Github-Repo\\in-class LAB (Some APIs are expired)\\ServerWithWinForm\\ServerWithWinForm\\ServerSend.cs",
+              "RelativeToolTip": "ServerWithWinForm\\ServerSend.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:27:59.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ThreadManager.cs",
+              "DocumentMoniker": "D:\\Github-Repo\\in-class LAB (Some APIs are expired)\\ServerWithWinForm\\ServerWithWinForm\\ThreadManager.cs",
+              "RelativeDocumentMoniker": "ServerWithWinForm\\ThreadManager.cs",
+              "ToolTip": "D:\\Github-Repo\\in-class LAB (Some APIs are expired)\\ServerWithWinForm\\ServerWithWinForm\\ThreadManager.cs",
+              "RelativeToolTip": "ServerWithWinForm\\ThreadManager.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:28:09.09Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

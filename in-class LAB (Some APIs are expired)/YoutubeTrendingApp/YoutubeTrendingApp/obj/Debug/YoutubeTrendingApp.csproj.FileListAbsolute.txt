@@ -1,0 +1,13 @@
+C:\Users\Tofu\source\repos\YoutubeTrendingApp\YoutubeTrendingApp\obj\Debug\YoutubeTrendingApp.csproj.AssemblyReference.cache
+C:\Users\Tofu\source\repos\YoutubeTrendingApp\YoutubeTrendingApp\obj\Debug\YoutubeTrendingApp.Properties.Resources.resources
+C:\Users\Tofu\source\repos\YoutubeTrendingApp\YoutubeTrendingApp\obj\Debug\YoutubeTrendingApp.YoutubeTrending.resources
+C:\Users\Tofu\source\repos\YoutubeTrendingApp\YoutubeTrendingApp\obj\Debug\YoutubeTrendingApp.csproj.GenerateResource.cache
+C:\Users\Tofu\source\repos\YoutubeTrendingApp\YoutubeTrendingApp\obj\Debug\YoutubeTrendingApp.csproj.CoreCompileInputs.cache
+C:\Users\Tofu\source\repos\YoutubeTrendingApp\YoutubeTrendingApp\bin\Debug\YoutubeTrendingApp.exe.config
+C:\Users\Tofu\source\repos\YoutubeTrendingApp\YoutubeTrendingApp\bin\Debug\YoutubeTrendingApp.exe
+C:\Users\Tofu\source\repos\YoutubeTrendingApp\YoutubeTrendingApp\bin\Debug\YoutubeTrendingApp.pdb
+C:\Users\Tofu\source\repos\YoutubeTrendingApp\YoutubeTrendingApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tofu\source\repos\YoutubeTrendingApp\YoutubeTrendingApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tofu\source\repos\YoutubeTrendingApp\YoutubeTrendingApp\obj\Debug\YoutubeT.564D4725.Up2Date
+C:\Users\Tofu\source\repos\YoutubeTrendingApp\YoutubeTrendingApp\obj\Debug\YoutubeTrendingApp.exe
+C:\Users\Tofu\source\repos\YoutubeTrendingApp\YoutubeTrendingApp\obj\Debug\YoutubeTrendingApp.pdb

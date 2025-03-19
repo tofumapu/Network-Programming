@@ -1,0 +1,11 @@
+C:\Users\Tofu\source\repos\Lab6-23520231-23520249\Lab6-23520231-23520249\obj\Debug\Lab6-23520231-23520249.csproj.AssemblyReference.cache
+C:\Users\Tofu\source\repos\Lab6-23520231-23520249\Lab6-23520231-23520249\obj\Debug\Lab6_23520231_23520249.Properties.Resources.resources
+C:\Users\Tofu\source\repos\Lab6-23520231-23520249\Lab6-23520231-23520249\obj\Debug\Lab6-23520231-23520249.csproj.GenerateResource.cache
+C:\Users\Tofu\source\repos\Lab6-23520231-23520249\Lab6-23520231-23520249\obj\Debug\Lab6-23520231-23520249.csproj.CoreCompileInputs.cache
+C:\Users\Tofu\source\repos\Lab6-23520231-23520249\Lab6-23520231-23520249\bin\Debug\Lab6-23520231-23520249.exe.config
+C:\Users\Tofu\source\repos\Lab6-23520231-23520249\Lab6-23520231-23520249\bin\Debug\Lab6-23520231-23520249.exe
+C:\Users\Tofu\source\repos\Lab6-23520231-23520249\Lab6-23520231-23520249\bin\Debug\Lab6-23520231-23520249.pdb
+C:\Users\Tofu\source\repos\Lab6-23520231-23520249\Lab6-23520231-23520249\obj\Debug\Lab6-23520231-23520249.exe
+C:\Users\Tofu\source\repos\Lab6-23520231-23520249\Lab6-23520231-23520249\obj\Debug\Lab6-23520231-23520249.pdb
+C:\Users\Tofu\source\repos\Lab6-23520231-23520249\Lab6-23520231-23520249\obj\Debug\Lab6_23520231_23520249.Client.resources
+C:\Users\Tofu\source\repos\Lab6-23520231-23520249\Lab6-23520231-23520249\obj\Debug\Lab6_23520231_23520249.Server.resources

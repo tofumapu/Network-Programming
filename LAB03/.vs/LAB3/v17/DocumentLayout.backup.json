@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LAB\\NT106\\LAB3-Resource\\LAB03\\LAB3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{749D42BD-54C3-4D2A-9F17-76F1DE68B94B}|LAB3\\LAB3.csproj|d:\\lab\\nt106\\lab3-resource\\lab03\\lab3\\lab3\\lab3_baitap4_server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749D42BD-54C3-4D2A-9F17-76F1DE68B94B}|LAB3\\LAB3.csproj|solutionrelative:lab3\\lab3_baitap4_server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749D42BD-54C3-4D2A-9F17-76F1DE68B94B}|LAB3\\LAB3.csproj|D:\\LAB\\NT106\\LAB3-Resource\\LAB03\\LAB3\\lab3\\lab3_baitap4_server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{749D42BD-54C3-4D2A-9F17-76F1DE68B94B}|LAB3\\LAB3.csproj|solutionrelative:lab3\\lab3_baitap4_server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749D42BD-54C3-4D2A-9F17-76F1DE68B94B}|LAB3\\LAB3.csproj|d:\\lab\\nt106\\lab3-resource\\lab03\\lab3\\lab3\\lab3_baitap4_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749D42BD-54C3-4D2A-9F17-76F1DE68B94B}|LAB3\\LAB3.csproj|solutionrelative:lab3\\lab3_baitap4_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749D42BD-54C3-4D2A-9F17-76F1DE68B94B}|LAB3\\LAB3.csproj|D:\\LAB\\NT106\\LAB3-Resource\\LAB03\\LAB3\\lab3\\lab3_baitap4_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{749D42BD-54C3-4D2A-9F17-76F1DE68B94B}|LAB3\\LAB3.csproj|solutionrelative:lab3\\lab3_baitap4_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749D42BD-54C3-4D2A-9F17-76F1DE68B94B}|LAB3\\LAB3.csproj|d:\\lab\\nt106\\lab3-resource\\lab03\\lab3\\lab3\\lab3_mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749D42BD-54C3-4D2A-9F17-76F1DE68B94B}|LAB3\\LAB3.csproj|solutionrelative:lab3\\lab3_mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749D42BD-54C3-4D2A-9F17-76F1DE68B94B}|LAB3\\LAB3.csproj|D:\\LAB\\NT106\\LAB3-Resource\\LAB03\\LAB3\\lab3\\lab3_mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{749D42BD-54C3-4D2A-9F17-76F1DE68B94B}|LAB3\\LAB3.csproj|solutionrelative:lab3\\lab3_mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749D42BD-54C3-4D2A-9F17-76F1DE68B94B}|LAB3\\LAB3.csproj|d:\\lab\\nt106\\lab3-resource\\lab03\\lab3\\lab3\\lab3_mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749D42BD-54C3-4D2A-9F17-76F1DE68B94B}|LAB3\\LAB3.csproj|solutionrelative:lab3\\lab3_mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749D42BD-54C3-4D2A-9F17-76F1DE68B94B}|LAB3\\LAB3.csproj|d:\\lab\\nt106\\lab3-resource\\lab03\\lab3\\lab3\\lab3_baitap1_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749D42BD-54C3-4D2A-9F17-76F1DE68B94B}|LAB3\\LAB3.csproj|solutionrelative:lab3\\lab3_baitap1_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749D42BD-54C3-4D2A-9F17-76F1DE68B94B}|LAB3\\LAB3.csproj|D:\\LAB\\NT106\\LAB3-Resource\\LAB03\\LAB3\\lab3\\lab3_baitap1_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{749D42BD-54C3-4D2A-9F17-76F1DE68B94B}|LAB3\\LAB3.csproj|solutionrelative:lab3\\lab3_baitap1_client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749D42BD-54C3-4D2A-9F17-76F1DE68B94B}|LAB3\\LAB3.csproj|d:\\lab\\nt106\\lab3-resource\\lab03\\lab3\\lab3\\lab3_baitap1_client.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749D42BD-54C3-4D2A-9F17-76F1DE68B94B}|LAB3\\LAB3.csproj|solutionrelative:lab3\\lab3_baitap1_client.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749D42BD-54C3-4D2A-9F17-76F1DE68B94B}|LAB3\\LAB3.csproj|d:\\lab\\nt106\\lab3-resource\\lab03\\lab3\\lab3\\lab3_baitap1_server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749D42BD-54C3-4D2A-9F17-76F1DE68B94B}|LAB3\\LAB3.csproj|solutionrelative:lab3\\lab3_baitap1_server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749D42BD-54C3-4D2A-9F17-76F1DE68B94B}|LAB3\\LAB3.csproj|D:\\LAB\\NT106\\LAB3-Resource\\LAB03\\LAB3\\lab3\\lab3_baitap1_server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{749D42BD-54C3-4D2A-9F17-76F1DE68B94B}|LAB3\\LAB3.csproj|solutionrelative:lab3\\lab3_baitap1_server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749D42BD-54C3-4D2A-9F17-76F1DE68B94B}|LAB3\\LAB3.csproj|d:\\lab\\nt106\\lab3-resource\\lab03\\lab3\\lab3\\lab3_baitap1_server.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749D42BD-54C3-4D2A-9F17-76F1DE68B94B}|LAB3\\LAB3.csproj|solutionrelative:lab3\\lab3_baitap1_server.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 179,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LAB3_BaiTap4_Client.cs",
+              "DocumentMoniker": "D:\\LAB\\NT106\\LAB3-Resource\\LAB03\\LAB3\\LAB3\\LAB3_BaiTap4_Client.cs",
+              "RelativeDocumentMoniker": "LAB3\\LAB3_BaiTap4_Client.cs",
+              "ToolTip": "D:\\LAB\\NT106\\LAB3-Resource\\LAB03\\LAB3\\LAB3\\LAB3_BaiTap4_Client.cs",
+              "RelativeToolTip": "LAB3\\LAB3_BaiTap4_Client.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T01:22:47.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LAB3_BaiTap4_Client.cs [Design]",
+              "DocumentMoniker": "D:\\LAB\\NT106\\LAB3-Resource\\LAB03\\LAB3\\LAB3\\LAB3_BaiTap4_Client.cs",
+              "RelativeDocumentMoniker": "LAB3\\LAB3_BaiTap4_Client.cs",
+              "ToolTip": "D:\\LAB\\NT106\\LAB3-Resource\\Lab3-FirstDemo\\LAB3\\LAB3\\LAB3_BaiTap4_Client.cs [Design]",
+              "RelativeToolTip": "..\\..\\Lab3-FirstDemo\\LAB3\\LAB3\\LAB3_BaiTap4_Client.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T01:22:39.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LAB3_BaiTap4_Server.cs",
+              "DocumentMoniker": "D:\\LAB\\NT106\\LAB3-Resource\\LAB03\\LAB3\\LAB3\\LAB3_BaiTap4_Server.cs",
+              "RelativeDocumentMoniker": "LAB3\\LAB3_BaiTap4_Server.cs",
+              "ToolTip": "D:\\LAB\\NT106\\LAB3-Resource\\LAB03\\LAB3\\LAB3\\LAB3_BaiTap4_Server.cs",
+              "RelativeToolTip": "LAB3\\LAB3_BaiTap4_Server.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAuwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T18:34:54.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LAB3_BaiTap4_Server.cs [Design]",
+              "DocumentMoniker": "D:\\LAB\\NT106\\LAB3-Resource\\LAB03\\LAB3\\LAB3\\LAB3_BaiTap4_Server.cs",
+              "RelativeDocumentMoniker": "LAB3\\LAB3_BaiTap4_Server.cs",
+              "ToolTip": "D:\\LAB\\NT106\\LAB3-Resource\\Lab3-FirstDemo\\LAB3\\LAB3\\LAB3_BaiTap4_Server.cs [Design]",
+              "RelativeToolTip": "..\\..\\Lab3-FirstDemo\\LAB3\\LAB3\\LAB3_BaiTap4_Server.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T18:34:40.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LAB3_MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\LAB\\NT106\\LAB3-Resource\\LAB03\\LAB3\\LAB3\\LAB3_MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "LAB3\\LAB3_MainForm.Designer.cs",
+              "ToolTip": "D:\\LAB\\NT106\\LAB3-Resource\\LAB03\\LAB3\\LAB3\\LAB3_MainForm.Designer.cs",
+              "RelativeToolTip": "LAB3\\LAB3_MainForm.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:47:10.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LAB3_MainForm.cs",
+              "DocumentMoniker": "D:\\LAB\\NT106\\LAB3-Resource\\LAB03\\LAB3\\LAB3\\LAB3_MainForm.cs",
+              "RelativeDocumentMoniker": "LAB3\\LAB3_MainForm.cs",
+              "ToolTip": "D:\\LAB\\NT106\\LAB3-Resource\\LAB03\\LAB3\\LAB3\\LAB3_MainForm.cs",
+              "RelativeToolTip": "LAB3\\LAB3_MainForm.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAADwv0IAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:45:23.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LAB3_MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\LAB\\NT106\\LAB3-Resource\\LAB03\\LAB3\\LAB3\\LAB3_MainForm.cs",
+              "RelativeDocumentMoniker": "LAB3\\LAB3_MainForm.cs",
+              "ToolTip": "D:\\LAB\\NT106\\LAB3-Resource\\Lab3-FirstDemo\\LAB3\\LAB3\\LAB3_MainForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\Lab3-FirstDemo\\LAB3\\LAB3\\LAB3_MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:45:20.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LAB3_BaiTap1_Client.Designer.cs",
+              "DocumentMoniker": "D:\\LAB\\NT106\\LAB3-Resource\\LAB03\\LAB3\\LAB3\\LAB3_BaiTap1_Client.Designer.cs",
+              "RelativeDocumentMoniker": "LAB3\\LAB3_BaiTap1_Client.Designer.cs",
+              "ToolTip": "D:\\LAB\\NT106\\LAB3-Resource\\LAB03\\LAB3\\LAB3\\LAB3_BaiTap1_Client.Designer.cs",
+              "RelativeToolTip": "LAB3\\LAB3_BaiTap1_Client.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:40:36.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LAB3_BaiTap1_Server.cs",
+              "DocumentMoniker": "D:\\LAB\\NT106\\LAB3-Resource\\LAB03\\LAB3\\LAB3\\LAB3_BaiTap1_Server.cs",
+              "RelativeDocumentMoniker": "LAB3\\LAB3_BaiTap1_Server.cs",
+              "ToolTip": "D:\\LAB\\NT106\\LAB3-Resource\\LAB03\\LAB3\\LAB3\\LAB3_BaiTap1_Server.cs",
+              "RelativeToolTip": "LAB3\\LAB3_BaiTap1_Server.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:35:23.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LAB3_BaiTap1_Server.cs [Design]",
+              "DocumentMoniker": "D:\\LAB\\NT106\\LAB3-Resource\\LAB03\\LAB3\\LAB3\\LAB3_BaiTap1_Server.cs",
+              "RelativeDocumentMoniker": "LAB3\\LAB3_BaiTap1_Server.cs",
+              "ToolTip": "D:\\LAB\\NT106\\LAB3-Resource\\Lab3-FirstDemo\\LAB3\\LAB3\\LAB3_BaiTap1_Server.cs [Design]",
+              "RelativeToolTip": "..\\..\\Lab3-FirstDemo\\LAB3\\LAB3\\LAB3_BaiTap1_Server.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:33:57.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LAB3_BaiTap1_Client.cs [Design]",
+              "DocumentMoniker": "D:\\LAB\\NT106\\LAB3-Resource\\LAB03\\LAB3\\LAB3\\LAB3_BaiTap1_Client.cs",
+              "RelativeDocumentMoniker": "LAB3\\LAB3_BaiTap1_Client.cs",
+              "ToolTip": "D:\\LAB\\NT106\\LAB3-Resource\\Lab3-FirstDemo\\LAB3\\LAB3\\LAB3_BaiTap1_Client.cs [Design]",
+              "RelativeToolTip": "..\\..\\Lab3-FirstDemo\\LAB3\\LAB3\\LAB3_BaiTap1_Client.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:33:47.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LAB3_BaiTap1_Client.cs",
+              "DocumentMoniker": "D:\\LAB\\NT106\\LAB3-Resource\\LAB03\\LAB3\\LAB3\\LAB3_BaiTap1_Client.cs",
+              "RelativeDocumentMoniker": "LAB3\\LAB3_BaiTap1_Client.cs",
+              "ToolTip": "D:\\LAB\\NT106\\LAB3-Resource\\LAB03\\LAB3\\LAB3\\LAB3_BaiTap1_Client.cs",
+              "RelativeToolTip": "LAB3\\LAB3_BaiTap1_Client.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:34:49.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LAB3_BaiTap1_Server.Designer.cs",
+              "DocumentMoniker": "D:\\LAB\\NT106\\LAB3-Resource\\LAB03\\LAB3\\LAB3\\LAB3_BaiTap1_Server.Designer.cs",
+              "RelativeDocumentMoniker": "LAB3\\LAB3_BaiTap1_Server.Designer.cs",
+              "ToolTip": "D:\\LAB\\NT106\\LAB3-Resource\\LAB03\\LAB3\\LAB3\\LAB3_BaiTap1_Server.Designer.cs",
+              "RelativeToolTip": "LAB3\\LAB3_BaiTap1_Server.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:39:14.827Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

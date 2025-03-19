@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="LAB3_BaiTap1_Client.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LAB3_BaiTap1_Server.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LAB3_BaiTap2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LAB3_BaiTap3_Client.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LAB3_BaiTap3_Server.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LAB3_BaiTap4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LAB3_BaiTap4_Client.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LAB3_BaiTap4_Server.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LAB3_MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

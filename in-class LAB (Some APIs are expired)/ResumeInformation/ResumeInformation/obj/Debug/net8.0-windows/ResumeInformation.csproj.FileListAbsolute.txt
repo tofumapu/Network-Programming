@@ -1,0 +1,17 @@
+D:\LAB\NT106\ResumeInformation\ResumeInformation\bin\Debug\net8.0-windows\ResumeInformation.exe
+D:\LAB\NT106\ResumeInformation\ResumeInformation\bin\Debug\net8.0-windows\ResumeInformation.deps.json
+D:\LAB\NT106\ResumeInformation\ResumeInformation\bin\Debug\net8.0-windows\ResumeInformation.runtimeconfig.json
+D:\LAB\NT106\ResumeInformation\ResumeInformation\bin\Debug\net8.0-windows\ResumeInformation.dll
+D:\LAB\NT106\ResumeInformation\ResumeInformation\bin\Debug\net8.0-windows\ResumeInformation.pdb
+D:\LAB\NT106\ResumeInformation\ResumeInformation\obj\Debug\net8.0-windows\ResumeInformation.Form1.resources
+D:\LAB\NT106\ResumeInformation\ResumeInformation\obj\Debug\net8.0-windows\ResumeInformation.Properties.Resources.resources
+D:\LAB\NT106\ResumeInformation\ResumeInformation\obj\Debug\net8.0-windows\ResumeInformation.csproj.GenerateResource.cache
+D:\LAB\NT106\ResumeInformation\ResumeInformation\obj\Debug\net8.0-windows\ResumeInformation.GeneratedMSBuildEditorConfig.editorconfig
+D:\LAB\NT106\ResumeInformation\ResumeInformation\obj\Debug\net8.0-windows\ResumeInformation.AssemblyInfoInputs.cache
+D:\LAB\NT106\ResumeInformation\ResumeInformation\obj\Debug\net8.0-windows\ResumeInformation.AssemblyInfo.cs
+D:\LAB\NT106\ResumeInformation\ResumeInformation\obj\Debug\net8.0-windows\ResumeInformation.csproj.CoreCompileInputs.cache
+D:\LAB\NT106\ResumeInformation\ResumeInformation\obj\Debug\net8.0-windows\ResumeInformation.dll
+D:\LAB\NT106\ResumeInformation\ResumeInformation\obj\Debug\net8.0-windows\refint\ResumeInformation.dll
+D:\LAB\NT106\ResumeInformation\ResumeInformation\obj\Debug\net8.0-windows\ResumeInformation.pdb
+D:\LAB\NT106\ResumeInformation\ResumeInformation\obj\Debug\net8.0-windows\ResumeInformation.genruntimeconfig.cache
+D:\LAB\NT106\ResumeInformation\ResumeInformation\obj\Debug\net8.0-windows\ref\ResumeInformation.dll

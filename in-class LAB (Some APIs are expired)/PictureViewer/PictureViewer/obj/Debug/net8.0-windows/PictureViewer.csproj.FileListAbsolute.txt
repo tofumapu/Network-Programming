@@ -1,0 +1,16 @@
+D:\LAB\NT106\PictureViewer\PictureViewer\bin\Debug\net8.0-windows\PictureViewer.exe
+D:\LAB\NT106\PictureViewer\PictureViewer\bin\Debug\net8.0-windows\PictureViewer.deps.json
+D:\LAB\NT106\PictureViewer\PictureViewer\bin\Debug\net8.0-windows\PictureViewer.runtimeconfig.json
+D:\LAB\NT106\PictureViewer\PictureViewer\bin\Debug\net8.0-windows\PictureViewer.dll
+D:\LAB\NT106\PictureViewer\PictureViewer\bin\Debug\net8.0-windows\PictureViewer.pdb
+D:\LAB\NT106\PictureViewer\PictureViewer\obj\Debug\net8.0-windows\PictureViewer.Form1.resources
+D:\LAB\NT106\PictureViewer\PictureViewer\obj\Debug\net8.0-windows\PictureViewer.csproj.GenerateResource.cache
+D:\LAB\NT106\PictureViewer\PictureViewer\obj\Debug\net8.0-windows\PictureViewer.GeneratedMSBuildEditorConfig.editorconfig
+D:\LAB\NT106\PictureViewer\PictureViewer\obj\Debug\net8.0-windows\PictureViewer.AssemblyInfoInputs.cache
+D:\LAB\NT106\PictureViewer\PictureViewer\obj\Debug\net8.0-windows\PictureViewer.AssemblyInfo.cs
+D:\LAB\NT106\PictureViewer\PictureViewer\obj\Debug\net8.0-windows\PictureViewer.csproj.CoreCompileInputs.cache
+D:\LAB\NT106\PictureViewer\PictureViewer\obj\Debug\net8.0-windows\PictureViewer.dll
+D:\LAB\NT106\PictureViewer\PictureViewer\obj\Debug\net8.0-windows\refint\PictureViewer.dll
+D:\LAB\NT106\PictureViewer\PictureViewer\obj\Debug\net8.0-windows\PictureViewer.pdb
+D:\LAB\NT106\PictureViewer\PictureViewer\obj\Debug\net8.0-windows\PictureViewer.genruntimeconfig.cache
+D:\LAB\NT106\PictureViewer\PictureViewer\obj\Debug\net8.0-windows\ref\PictureViewer.dll

@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tofu\\source\\repos\\Lab4_23520231_23520249\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B10927B-E72C-4BDA-BA07-2D752ADA6361}|Lab4_23520231_23520249\\Lab4_23520231_23520249.csproj|c:\\users\\tofu\\source\\repos\\lab4_23520231_23520249\\lab4_23520231_23520249\\lab4_menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B10927B-E72C-4BDA-BA07-2D752ADA6361}|Lab4_23520231_23520249\\Lab4_23520231_23520249.csproj|solutionrelative:lab4_23520231_23520249\\lab4_menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B10927B-E72C-4BDA-BA07-2D752ADA6361}|Lab4_23520231_23520249\\Lab4_23520231_23520249.csproj|c:\\users\\tofu\\source\\repos\\lab4_23520231_23520249\\lab4_23520231_23520249\\lab4_menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B10927B-E72C-4BDA-BA07-2D752ADA6361}|Lab4_23520231_23520249\\Lab4_23520231_23520249.csproj|solutionrelative:lab4_23520231_23520249\\lab4_menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B10927B-E72C-4BDA-BA07-2D752ADA6361}|Lab4_23520231_23520249\\Lab4_23520231_23520249.csproj|c:\\users\\tofu\\source\\repos\\lab4_23520231_23520249\\lab4_23520231_23520249\\lab4_menuform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B10927B-E72C-4BDA-BA07-2D752ADA6361}|Lab4_23520231_23520249\\Lab4_23520231_23520249.csproj|solutionrelative:lab4_23520231_23520249\\lab4_menuform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B10927B-E72C-4BDA-BA07-2D752ADA6361}|Lab4_23520231_23520249\\Lab4_23520231_23520249.csproj|c:\\users\\tofu\\source\\repos\\lab4_23520231_23520249\\lab4_23520231_23520249\\lab4_baitap4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B10927B-E72C-4BDA-BA07-2D752ADA6361}|Lab4_23520231_23520249\\Lab4_23520231_23520249.csproj|solutionrelative:lab4_23520231_23520249\\lab4_baitap4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B10927B-E72C-4BDA-BA07-2D752ADA6361}|Lab4_23520231_23520249\\Lab4_23520231_23520249.csproj|C:\\Users\\Tofu\\source\\repos\\Lab4_23520231_23520249\\lab4_23520231_23520249\\lab4_baitap4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B10927B-E72C-4BDA-BA07-2D752ADA6361}|Lab4_23520231_23520249\\Lab4_23520231_23520249.csproj|solutionrelative:lab4_23520231_23520249\\lab4_baitap4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab4_MenuForm.cs",
+              "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\Lab4_23520231_23520249\\Lab4_23520231_23520249\\Lab4_MenuForm.cs",
+              "RelativeDocumentMoniker": "Lab4_23520231_23520249\\Lab4_MenuForm.cs",
+              "ToolTip": "C:\\Users\\Tofu\\source\\repos\\Lab4_23520231_23520249\\Lab4_23520231_23520249\\Lab4_MenuForm.cs",
+              "RelativeToolTip": "Lab4_23520231_23520249\\Lab4_MenuForm.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAywBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T07:37:50.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lab4_MenuForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\Lab4_23520231_23520249\\Lab4_23520231_23520249\\Lab4_MenuForm.Designer.cs",
+              "RelativeDocumentMoniker": "Lab4_23520231_23520249\\Lab4_MenuForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Tofu\\source\\repos\\Lab4_23520231_23520249\\Lab4_23520231_23520249\\Lab4_MenuForm.Designer.cs",
+              "RelativeToolTip": "Lab4_23520231_23520249\\Lab4_MenuForm.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T07:36:52.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab4_MenuForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\Lab4_23520231_23520249\\Lab4_23520231_23520249\\Lab4_MenuForm.cs",
+              "RelativeDocumentMoniker": "Lab4_23520231_23520249\\Lab4_MenuForm.cs",
+              "ToolTip": "C:\\Users\\Tofu\\source\\repos\\Lab4_23520231_23520249\\Lab4_23520231_23520249\\Lab4_MenuForm.cs [Design]",
+              "RelativeToolTip": "Lab4_23520231_23520249\\Lab4_MenuForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T07:36:49.946Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lab4_BaiTap4.cs",
+              "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\Lab4_23520231_23520249\\Lab4_23520231_23520249\\Lab4_BaiTap4.cs",
+              "RelativeDocumentMoniker": "Lab4_23520231_23520249\\Lab4_BaiTap4.cs",
+              "ToolTip": "C:\\Users\\Tofu\\source\\repos\\Lab4_23520231_23520249\\Lab4_23520231_23520249\\Lab4_BaiTap4.cs",
+              "RelativeToolTip": "Lab4_23520231_23520249\\Lab4_BaiTap4.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T18:21:12.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lab4_BaiTap4.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\Lab4_23520231_23520249\\Lab4_23520231_23520249\\Lab4_BaiTap4.cs",
+              "RelativeDocumentMoniker": "Lab4_23520231_23520249\\Lab4_BaiTap4.cs",
+              "ToolTip": "C:\\Users\\Tofu\\source\\repos\\Lab4_23520231_23520249\\Lab4_23520231_23520249\\Lab4_BaiTap4.cs [Design]",
+              "RelativeToolTip": "Lab4_23520231_23520249\\Lab4_BaiTap4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T18:13:49.976Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 213,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

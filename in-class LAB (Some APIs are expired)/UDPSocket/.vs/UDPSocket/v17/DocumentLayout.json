@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tofu\\source\\repos\\UDPSocket\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C088E5-4F7E-4652-85A2-DEA2BEB1CB6F}|UDPSocket\\UDPSocket.csproj|c:\\users\\tofu\\source\\repos\\udpsocket\\udpsocket\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C088E5-4F7E-4652-85A2-DEA2BEB1CB6F}|UDPSocket\\UDPSocket.csproj|solutionrelative:udpsocket\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C088E5-4F7E-4652-85A2-DEA2BEB1CB6F}|UDPSocket\\UDPSocket.csproj|c:\\users\\tofu\\source\\repos\\udpsocket\\udpsocket\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C5C088E5-4F7E-4652-85A2-DEA2BEB1CB6F}|UDPSocket\\UDPSocket.csproj|solutionrelative:udpsocket\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C088E5-4F7E-4652-85A2-DEA2BEB1CB6F}|UDPSocket\\UDPSocket.csproj|c:\\users\\tofu\\source\\repos\\udpsocket\\udpsocket\\server.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C088E5-4F7E-4652-85A2-DEA2BEB1CB6F}|UDPSocket\\UDPSocket.csproj|solutionrelative:udpsocket\\server.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 196,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Server.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\UDPSocket\\UDPSocket\\Server.Designer.cs",
+              "RelativeDocumentMoniker": "UDPSocket\\Server.Designer.cs",
+              "ToolTip": "C:\\Users\\Tofu\\source\\repos\\UDPSocket\\UDPSocket\\Server.Designer.cs",
+              "RelativeToolTip": "UDPSocket\\Server.Designer.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAiwE8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:23:49.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\UDPSocket\\UDPSocket\\Server.cs",
+              "RelativeDocumentMoniker": "UDPSocket\\Server.cs",
+              "ToolTip": "C:\\Users\\Tofu\\source\\repos\\UDPSocket\\UDPSocket\\Server.cs",
+              "RelativeToolTip": "UDPSocket\\Server.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAAG4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:19:36.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Server.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tofu\\source\\repos\\UDPSocket\\UDPSocket\\Server.cs",
+              "RelativeDocumentMoniker": "UDPSocket\\Server.cs",
+              "ToolTip": "C:\\Users\\Tofu\\source\\repos\\UDPSocket\\UDPSocket\\Server.cs [Design]",
+              "RelativeToolTip": "UDPSocket\\Server.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:13:43.743Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+C:\Users\Tofu\OneDrive\Máy tính\ChattingServer\ChattingServer\bin\Release\net8.0-windows\ChattingServer.exe
+C:\Users\Tofu\OneDrive\Máy tính\ChattingServer\ChattingServer\bin\Release\net8.0-windows\ChattingServer.deps.json
+C:\Users\Tofu\OneDrive\Máy tính\ChattingServer\ChattingServer\bin\Release\net8.0-windows\ChattingServer.runtimeconfig.json
+C:\Users\Tofu\OneDrive\Máy tính\ChattingServer\ChattingServer\bin\Release\net8.0-windows\ChattingServer.dll
+C:\Users\Tofu\OneDrive\Máy tính\ChattingServer\ChattingServer\bin\Release\net8.0-windows\ChattingServer.pdb
+C:\Users\Tofu\OneDrive\Máy tính\ChattingServer\ChattingServer\obj\Release\net8.0-windows\ChattingServer.Form1.resources
+C:\Users\Tofu\OneDrive\Máy tính\ChattingServer\ChattingServer\obj\Release\net8.0-windows\ChattingServer.csproj.GenerateResource.cache
+C:\Users\Tofu\OneDrive\Máy tính\ChattingServer\ChattingServer\obj\Release\net8.0-windows\ChattingServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tofu\OneDrive\Máy tính\ChattingServer\ChattingServer\obj\Release\net8.0-windows\ChattingServer.AssemblyInfoInputs.cache
+C:\Users\Tofu\OneDrive\Máy tính\ChattingServer\ChattingServer\obj\Release\net8.0-windows\ChattingServer.AssemblyInfo.cs
+C:\Users\Tofu\OneDrive\Máy tính\ChattingServer\ChattingServer\obj\Release\net8.0-windows\ChattingServer.csproj.CoreCompileInputs.cache
+C:\Users\Tofu\OneDrive\Máy tính\ChattingServer\ChattingServer\obj\Release\net8.0-windows\ChattingServer.dll
+C:\Users\Tofu\OneDrive\Máy tính\ChattingServer\ChattingServer\obj\Release\net8.0-windows\refint\ChattingServer.dll
+C:\Users\Tofu\OneDrive\Máy tính\ChattingServer\ChattingServer\obj\Release\net8.0-windows\ChattingServer.pdb
+C:\Users\Tofu\OneDrive\Máy tính\ChattingServer\ChattingServer\obj\Release\net8.0-windows\ChattingServer.genruntimeconfig.cache
+C:\Users\Tofu\OneDrive\Máy tính\ChattingServer\ChattingServer\obj\Release\net8.0-windows\ref\ChattingServer.dll

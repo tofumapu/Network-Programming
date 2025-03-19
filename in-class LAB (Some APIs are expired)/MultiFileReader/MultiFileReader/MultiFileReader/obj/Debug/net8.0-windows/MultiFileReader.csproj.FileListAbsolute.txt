@@ -1,0 +1,16 @@
+D:\LAB\NT106\MultiFileReader\MultiFileReader\MultiFileReader\obj\Debug\net8.0-windows\MultiFileReader.MultiFileReader.resources
+D:\LAB\NT106\MultiFileReader\MultiFileReader\MultiFileReader\obj\Debug\net8.0-windows\MultiFileReader.csproj.GenerateResource.cache
+D:\LAB\NT106\MultiFileReader\MultiFileReader\MultiFileReader\obj\Debug\net8.0-windows\MultiFileReader.GeneratedMSBuildEditorConfig.editorconfig
+D:\LAB\NT106\MultiFileReader\MultiFileReader\MultiFileReader\obj\Debug\net8.0-windows\MultiFileReader.AssemblyInfoInputs.cache
+D:\LAB\NT106\MultiFileReader\MultiFileReader\MultiFileReader\obj\Debug\net8.0-windows\MultiFileReader.AssemblyInfo.cs
+D:\LAB\NT106\MultiFileReader\MultiFileReader\MultiFileReader\obj\Debug\net8.0-windows\MultiFileReader.csproj.CoreCompileInputs.cache
+D:\LAB\NT106\MultiFileReader\MultiFileReader\MultiFileReader\bin\Debug\net8.0-windows\MultiFileReader.exe
+D:\LAB\NT106\MultiFileReader\MultiFileReader\MultiFileReader\bin\Debug\net8.0-windows\MultiFileReader.deps.json
+D:\LAB\NT106\MultiFileReader\MultiFileReader\MultiFileReader\bin\Debug\net8.0-windows\MultiFileReader.runtimeconfig.json
+D:\LAB\NT106\MultiFileReader\MultiFileReader\MultiFileReader\bin\Debug\net8.0-windows\MultiFileReader.dll
+D:\LAB\NT106\MultiFileReader\MultiFileReader\MultiFileReader\bin\Debug\net8.0-windows\MultiFileReader.pdb
+D:\LAB\NT106\MultiFileReader\MultiFileReader\MultiFileReader\obj\Debug\net8.0-windows\MultiFileReader.dll
+D:\LAB\NT106\MultiFileReader\MultiFileReader\MultiFileReader\obj\Debug\net8.0-windows\refint\MultiFileReader.dll
+D:\LAB\NT106\MultiFileReader\MultiFileReader\MultiFileReader\obj\Debug\net8.0-windows\MultiFileReader.pdb
+D:\LAB\NT106\MultiFileReader\MultiFileReader\MultiFileReader\obj\Debug\net8.0-windows\MultiFileReader.genruntimeconfig.cache
+D:\LAB\NT106\MultiFileReader\MultiFileReader\MultiFileReader\obj\Debug\net8.0-windows\ref\MultiFileReader.dll

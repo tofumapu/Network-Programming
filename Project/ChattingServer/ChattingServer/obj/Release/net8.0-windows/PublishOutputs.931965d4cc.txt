@@ -1,0 +1,5 @@
+C:\Users\Tofu\OneDrive\Máy tính\ChattingServer\ChattingServer\bin\Release\net8.0-windows\publish\ChattingServer\ChattingServer.exe
+C:\Users\Tofu\OneDrive\Máy tính\ChattingServer\ChattingServer\bin\Release\net8.0-windows\publish\ChattingServer\ChattingServer.dll
+C:\Users\Tofu\OneDrive\Máy tính\ChattingServer\ChattingServer\bin\Release\net8.0-windows\publish\ChattingServer\ChattingServer.deps.json
+C:\Users\Tofu\OneDrive\Máy tính\ChattingServer\ChattingServer\bin\Release\net8.0-windows\publish\ChattingServer\ChattingServer.runtimeconfig.json
+C:\Users\Tofu\OneDrive\Máy tính\ChattingServer\ChattingServer\bin\Release\net8.0-windows\publish\ChattingServer\ChattingServer.pdb

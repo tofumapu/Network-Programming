@@ -1,0 +1,16 @@
+C:\Users\Tofu\source\repos\ServerExplodingKitten\ServerExplodingKitten\bin\Debug\net8.0-windows\ServerExplodingKitten.exe
+C:\Users\Tofu\source\repos\ServerExplodingKitten\ServerExplodingKitten\bin\Debug\net8.0-windows\ServerExplodingKitten.deps.json
+C:\Users\Tofu\source\repos\ServerExplodingKitten\ServerExplodingKitten\bin\Debug\net8.0-windows\ServerExplodingKitten.runtimeconfig.json
+C:\Users\Tofu\source\repos\ServerExplodingKitten\ServerExplodingKitten\bin\Debug\net8.0-windows\ServerExplodingKitten.dll
+C:\Users\Tofu\source\repos\ServerExplodingKitten\ServerExplodingKitten\bin\Debug\net8.0-windows\ServerExplodingKitten.pdb
+C:\Users\Tofu\source\repos\ServerExplodingKitten\ServerExplodingKitten\obj\Debug\net8.0-windows\ServerExplodingKitten.Form1.resources
+C:\Users\Tofu\source\repos\ServerExplodingKitten\ServerExplodingKitten\obj\Debug\net8.0-windows\ServerExplodingKitten.csproj.GenerateResource.cache
+C:\Users\Tofu\source\repos\ServerExplodingKitten\ServerExplodingKitten\obj\Debug\net8.0-windows\ServerExplodingKitten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tofu\source\repos\ServerExplodingKitten\ServerExplodingKitten\obj\Debug\net8.0-windows\ServerExplodingKitten.AssemblyInfoInputs.cache
+C:\Users\Tofu\source\repos\ServerExplodingKitten\ServerExplodingKitten\obj\Debug\net8.0-windows\ServerExplodingKitten.AssemblyInfo.cs
+C:\Users\Tofu\source\repos\ServerExplodingKitten\ServerExplodingKitten\obj\Debug\net8.0-windows\ServerExplodingKitten.csproj.CoreCompileInputs.cache
+C:\Users\Tofu\source\repos\ServerExplodingKitten\ServerExplodingKitten\obj\Debug\net8.0-windows\ServerExplodingKitten.dll
+C:\Users\Tofu\source\repos\ServerExplodingKitten\ServerExplodingKitten\obj\Debug\net8.0-windows\refint\ServerExplodingKitten.dll
+C:\Users\Tofu\source\repos\ServerExplodingKitten\ServerExplodingKitten\obj\Debug\net8.0-windows\ServerExplodingKitten.pdb
+C:\Users\Tofu\source\repos\ServerExplodingKitten\ServerExplodingKitten\obj\Debug\net8.0-windows\ServerExplodingKitten.genruntimeconfig.cache
+C:\Users\Tofu\source\repos\ServerExplodingKitten\ServerExplodingKitten\obj\Debug\net8.0-windows\ref\ServerExplodingKitten.dll

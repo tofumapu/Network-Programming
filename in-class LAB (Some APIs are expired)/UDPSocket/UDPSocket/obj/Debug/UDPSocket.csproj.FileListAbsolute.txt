@@ -1,0 +1,10 @@
+C:\Users\Tofu\source\repos\UDPSocket\UDPSocket\obj\Debug\UDPSocket.csproj.AssemblyReference.cache
+C:\Users\Tofu\source\repos\UDPSocket\UDPSocket\obj\Debug\UDPSocket.Properties.Resources.resources
+C:\Users\Tofu\source\repos\UDPSocket\UDPSocket\obj\Debug\UDPSocket.csproj.GenerateResource.cache
+C:\Users\Tofu\source\repos\UDPSocket\UDPSocket\obj\Debug\UDPSocket.csproj.CoreCompileInputs.cache
+C:\Users\Tofu\source\repos\UDPSocket\UDPSocket\bin\Debug\UDPSocket.exe.config
+C:\Users\Tofu\source\repos\UDPSocket\UDPSocket\bin\Debug\UDPSocket.exe
+C:\Users\Tofu\source\repos\UDPSocket\UDPSocket\bin\Debug\UDPSocket.pdb
+C:\Users\Tofu\source\repos\UDPSocket\UDPSocket\obj\Debug\UDPSocket.exe
+C:\Users\Tofu\source\repos\UDPSocket\UDPSocket\obj\Debug\UDPSocket.pdb
+C:\Users\Tofu\source\repos\UDPSocket\UDPSocket\obj\Debug\UDPSocket.Server.resources

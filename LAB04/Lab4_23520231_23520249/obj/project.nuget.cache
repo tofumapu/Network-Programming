@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5qcY35dOkBA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tofu\\source\\repos\\Lab4_23520231_23520249\\Lab4_23520231_23520249\\Lab4_23520231_23520249.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tofu\\.nuget\\packages\\htmlagilitypack\\1.11.71\\htmlagilitypack.1.11.71.nupkg.sha512",
+    "C:\\Users\\Tofu\\.nuget\\packages\\microsoft.web.webview2\\1.0.2903.40\\microsoft.web.webview2.1.0.2903.40.nupkg.sha512",
+    "C:\\Users\\Tofu\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

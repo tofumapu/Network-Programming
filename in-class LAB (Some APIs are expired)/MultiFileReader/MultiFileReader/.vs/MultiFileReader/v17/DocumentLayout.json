@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LAB\\NT106\\MultiFileReader\\MultiFileReader\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{316C74BC-A0A4-4032-B7AE-3BDCC86FC5E8}|MultiFileReader\\MultiFileReader.csproj|d:\\lab\\nt106\\multifilereader\\multifilereader\\multifilereader\\multifilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{316C74BC-A0A4-4032-B7AE-3BDCC86FC5E8}|MultiFileReader\\MultiFileReader.csproj|solutionrelative:multifilereader\\multifilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316C74BC-A0A4-4032-B7AE-3BDCC86FC5E8}|MultiFileReader\\MultiFileReader.csproj|d:\\lab\\nt106\\multifilereader\\multifilereader\\multifilereader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{316C74BC-A0A4-4032-B7AE-3BDCC86FC5E8}|MultiFileReader\\MultiFileReader.csproj|solutionrelative:multifilereader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316C74BC-A0A4-4032-B7AE-3BDCC86FC5E8}|MultiFileReader\\MultiFileReader.csproj|D:\\LAB\\NT106\\MultiFileReader\\MultiFileReader\\multifilereader\\multifilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{316C74BC-A0A4-4032-B7AE-3BDCC86FC5E8}|MultiFileReader\\MultiFileReader.csproj|solutionrelative:multifilereader\\multifilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316C74BC-A0A4-4032-B7AE-3BDCC86FC5E8}|MultiFileReader\\MultiFileReader.csproj|d:\\lab\\nt106\\multifilereader\\multifilereader\\multifilereader\\multifilereader.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{316C74BC-A0A4-4032-B7AE-3BDCC86FC5E8}|MultiFileReader\\MultiFileReader.csproj|solutionrelative:multifilereader\\multifilereader.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MultiFileReader.cs [Design]",
+              "DocumentMoniker": "D:\\LAB\\NT106\\MultiFileReader\\MultiFileReader\\MultiFileReader\\MultiFileReader.cs",
+              "RelativeDocumentMoniker": "MultiFileReader\\MultiFileReader.cs",
+              "ToolTip": "D:\\LAB\\NT106\\MultiFileReader\\MultiFileReader\\MultiFileReader\\MultiFileReader.cs [Design]",
+              "RelativeToolTip": "MultiFileReader\\MultiFileReader.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:16:10.725Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LAB\\NT106\\MultiFileReader\\MultiFileReader\\MultiFileReader\\Program.cs",
+              "RelativeDocumentMoniker": "MultiFileReader\\Program.cs",
+              "ToolTip": "D:\\LAB\\NT106\\MultiFileReader\\MultiFileReader\\MultiFileReader\\Program.cs",
+              "RelativeToolTip": "MultiFileReader\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:09:12.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MultiFileReader.cs",
+              "DocumentMoniker": "D:\\LAB\\NT106\\MultiFileReader\\MultiFileReader\\MultiFileReader\\MultiFileReader.cs",
+              "RelativeDocumentMoniker": "MultiFileReader\\MultiFileReader.cs",
+              "ToolTip": "D:\\LAB\\NT106\\MultiFileReader\\MultiFileReader\\MultiFileReader\\MultiFileReader.cs",
+              "RelativeToolTip": "MultiFileReader\\MultiFileReader.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwBoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T14:55:54.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MultiFileReader.Designer.cs",
+              "DocumentMoniker": "D:\\LAB\\NT106\\MultiFileReader\\MultiFileReader\\MultiFileReader\\MultiFileReader.Designer.cs",
+              "RelativeDocumentMoniker": "MultiFileReader\\MultiFileReader.Designer.cs",
+              "ToolTip": "D:\\LAB\\NT106\\MultiFileReader\\MultiFileReader\\MultiFileReader\\MultiFileReader.Designer.cs",
+              "RelativeToolTip": "MultiFileReader\\MultiFileReader.Designer.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAhwCYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:07:34.394Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

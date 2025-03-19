@@ -1,0 +1,16 @@
+C:\Users\Tofu\OneDrive\Máy tính\Log And Message Sever\Log And Message Sever\Log And Message Server\Log And Message Server\bin\Release\net8.0-windows\Log And Message Server.exe
+C:\Users\Tofu\OneDrive\Máy tính\Log And Message Sever\Log And Message Sever\Log And Message Server\Log And Message Server\bin\Release\net8.0-windows\Log And Message Server.deps.json
+C:\Users\Tofu\OneDrive\Máy tính\Log And Message Sever\Log And Message Sever\Log And Message Server\Log And Message Server\bin\Release\net8.0-windows\Log And Message Server.runtimeconfig.json
+C:\Users\Tofu\OneDrive\Máy tính\Log And Message Sever\Log And Message Sever\Log And Message Server\Log And Message Server\bin\Release\net8.0-windows\Log And Message Server.dll
+C:\Users\Tofu\OneDrive\Máy tính\Log And Message Sever\Log And Message Sever\Log And Message Server\Log And Message Server\bin\Release\net8.0-windows\Log And Message Server.pdb
+C:\Users\Tofu\OneDrive\Máy tính\Log And Message Sever\Log And Message Sever\Log And Message Server\Log And Message Server\obj\Release\net8.0-windows\Log_And_Message_Server.Form1.resources
+C:\Users\Tofu\OneDrive\Máy tính\Log And Message Sever\Log And Message Sever\Log And Message Server\Log And Message Server\obj\Release\net8.0-windows\Log And Message Server.csproj.GenerateResource.cache
+C:\Users\Tofu\OneDrive\Máy tính\Log And Message Sever\Log And Message Sever\Log And Message Server\Log And Message Server\obj\Release\net8.0-windows\Log And Message Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tofu\OneDrive\Máy tính\Log And Message Sever\Log And Message Sever\Log And Message Server\Log And Message Server\obj\Release\net8.0-windows\Log And Message Server.AssemblyInfoInputs.cache
+C:\Users\Tofu\OneDrive\Máy tính\Log And Message Sever\Log And Message Sever\Log And Message Server\Log And Message Server\obj\Release\net8.0-windows\Log And Message Server.AssemblyInfo.cs
+C:\Users\Tofu\OneDrive\Máy tính\Log And Message Sever\Log And Message Sever\Log And Message Server\Log And Message Server\obj\Release\net8.0-windows\Log And Message Server.csproj.CoreCompileInputs.cache
+C:\Users\Tofu\OneDrive\Máy tính\Log And Message Sever\Log And Message Sever\Log And Message Server\Log And Message Server\obj\Release\net8.0-windows\Log And Message Server.dll
+C:\Users\Tofu\OneDrive\Máy tính\Log And Message Sever\Log And Message Sever\Log And Message Server\Log And Message Server\obj\Release\net8.0-windows\refint\Log And Message Server.dll
+C:\Users\Tofu\OneDrive\Máy tính\Log And Message Sever\Log And Message Sever\Log And Message Server\Log And Message Server\obj\Release\net8.0-windows\Log And Message Server.pdb
+C:\Users\Tofu\OneDrive\Máy tính\Log And Message Sever\Log And Message Sever\Log And Message Server\Log And Message Server\obj\Release\net8.0-windows\Log And Message Server.genruntimeconfig.cache
+C:\Users\Tofu\OneDrive\Máy tính\Log And Message Sever\Log And Message Sever\Log And Message Server\Log And Message Server\obj\Release\net8.0-windows\ref\Log And Message Server.dll

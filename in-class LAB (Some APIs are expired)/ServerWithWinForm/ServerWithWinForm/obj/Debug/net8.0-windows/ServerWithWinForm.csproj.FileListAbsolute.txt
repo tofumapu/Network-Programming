@@ -1,0 +1,16 @@
+C:\Users\Tofu\source\repos\ServerWithWinForm\ServerWithWinForm\bin\Debug\net8.0-windows\ServerWithWinForm.exe
+C:\Users\Tofu\source\repos\ServerWithWinForm\ServerWithWinForm\bin\Debug\net8.0-windows\ServerWithWinForm.deps.json
+C:\Users\Tofu\source\repos\ServerWithWinForm\ServerWithWinForm\bin\Debug\net8.0-windows\ServerWithWinForm.runtimeconfig.json
+C:\Users\Tofu\source\repos\ServerWithWinForm\ServerWithWinForm\bin\Debug\net8.0-windows\ServerWithWinForm.dll
+C:\Users\Tofu\source\repos\ServerWithWinForm\ServerWithWinForm\bin\Debug\net8.0-windows\ServerWithWinForm.pdb
+C:\Users\Tofu\source\repos\ServerWithWinForm\ServerWithWinForm\obj\Debug\net8.0-windows\ServerWithWinForm.FormServer.resources
+C:\Users\Tofu\source\repos\ServerWithWinForm\ServerWithWinForm\obj\Debug\net8.0-windows\ServerWithWinForm.csproj.GenerateResource.cache
+C:\Users\Tofu\source\repos\ServerWithWinForm\ServerWithWinForm\obj\Debug\net8.0-windows\ServerWithWinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tofu\source\repos\ServerWithWinForm\ServerWithWinForm\obj\Debug\net8.0-windows\ServerWithWinForm.AssemblyInfoInputs.cache
+C:\Users\Tofu\source\repos\ServerWithWinForm\ServerWithWinForm\obj\Debug\net8.0-windows\ServerWithWinForm.AssemblyInfo.cs
+C:\Users\Tofu\source\repos\ServerWithWinForm\ServerWithWinForm\obj\Debug\net8.0-windows\ServerWithWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Tofu\source\repos\ServerWithWinForm\ServerWithWinForm\obj\Debug\net8.0-windows\ServerWithWinForm.dll
+C:\Users\Tofu\source\repos\ServerWithWinForm\ServerWithWinForm\obj\Debug\net8.0-windows\refint\ServerWithWinForm.dll
+C:\Users\Tofu\source\repos\ServerWithWinForm\ServerWithWinForm\obj\Debug\net8.0-windows\ServerWithWinForm.pdb
+C:\Users\Tofu\source\repos\ServerWithWinForm\ServerWithWinForm\obj\Debug\net8.0-windows\ServerWithWinForm.genruntimeconfig.cache
+C:\Users\Tofu\source\repos\ServerWithWinForm\ServerWithWinForm\obj\Debug\net8.0-windows\ref\ServerWithWinForm.dll
